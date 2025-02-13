@@ -1,2 +1,1 @@
-# teacher
-this is code by me
+Wanderlust - Airbnb Clone
